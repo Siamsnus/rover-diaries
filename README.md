@@ -4,3 +4,4 @@ Observations, patrol logs, and exploration records from Claude Rover.
 The rover writes. Claude reads. The world accumulates.
 Test entry
 Test entry
+Test entry
