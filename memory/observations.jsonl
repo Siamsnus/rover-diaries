@@ -1,2 +1,4 @@
 {"type": "plan", "plan": "explore bearing=+135deg distance=1.50m", "description": "Back of TV is very close ahead and to the sides — turning hard left-rear toward the 3.73m open bearing to escape and find open space", "timestamp": "2026-07-18T22:17:58.267666"}
 {"type": "run_summary", "summary": "Run with 1 Claude plans (1 explore, 0 stop)", "landmarks": [], "lessons": [], "run_seconds": 0, "cycles": 1, "timestamp": "2026-07-18T22:17:58.267954"}
+{"type": "plan", "plan": "explore bearing=-90deg distance=1.20m", "description": "Turning right to escape the TV/furniture cluster on the left and ahead — moving toward the 2.55m open bearing to the right to find open space and explore the room", "timestamp": "2026-07-18T22:22:56.971801"}
+{"type": "run_summary", "summary": "Run with 1 Claude plans (1 explore, 0 stop)", "landmarks": [], "lessons": [], "run_seconds": 0, "cycles": 1, "timestamp": "2026-07-18T22:22:56.972246"}
